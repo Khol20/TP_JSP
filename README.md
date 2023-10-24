@@ -10,6 +10,8 @@ applications web robustes et interactives.
 +Intégration : Elles s'intègrent facilement avec d'autres technologies Java, telles que Servlets, EJB (Enterprise JavaBeans), JDBC (Java Database Connectivity), etc.
 
 +Extensibilité : Les balises personnalisées (taglibs) permettent d'étendre les fonctionnalités des JSP.
+
+
 #Introduction sur le projet ----------------
 Ce projet permer l'ajout , la supression et la modification des machines en utilisant cette technologie .
 
