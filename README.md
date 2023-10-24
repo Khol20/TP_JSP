@@ -31,7 +31,8 @@ on  choisit le champ qu'on veut modifier.Par exemple on veut modifier le prix de
 
 resultat =
 
-<img width="958" alt="image" src="https://github.com/Khol20/TP_JSP/assets/147450314/7f7c97c3-9827-4ab2-9617-cbd75770cca5">
+<img width="959" alt="image" src="https://github.com/Khol20/TP_JSP/assets/147450314/691263de-7fa9-4f05-8802-2ea1a2b680ed">
+
 
 
 
