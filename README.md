@@ -12,6 +12,13 @@ applications web robustes et interactives.
 +Extensibilité : Les balises personnalisées (taglibs) permettent d'étendre les fonctionnalités des JSP.
 #Introduction sur le projet --------------------------------
 Ce projet permer l'ajout , la supression et la modification des machines en utilisant cette technologie 
+
+#Structure du projet :---------------------------------------------------------------------------------
+-src/main/java : Ce répertoire contient les fichiers source Java et les packages de votre projet, où vous placez les classes et interfaces Java.
+-src/main/webapp : Cette section regroupe les fichiers JSP (JavaServer Pages) pour créer des pages web dynamiques, ainsi que les ressources web statiques telles que les fichiers HTML, CSS, JavaScript, images, etc.
+-src/main/resources : Dans ce répertoire, vous stockez les fichiers de configuration, notamment le fichier de configuration Hibernate (hibernate.cfg.xml) si vous utilisez le framework Hibernate pour la persistance des données. C'est également l'emplacement des ressources non Java de votre projet.
+
+
  # Quelques interfaces :
  La page principage est comme suit :------------------------------------------------------------------------------------------
  <img width="958" alt="image" src="https://github.com/Khol20/TP_JSP/assets/147450314/5930464b-ecf1-4947-95af-d7bcabf727bd">
