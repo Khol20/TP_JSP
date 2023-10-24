@@ -11,7 +11,10 @@ applications web robustes et interactives.
 
 +Extensibilité : Les balises personnalisées (taglibs) permettent d'étendre les fonctionnalités des JSP.
 #Introduction sur le projet --------------------------------
-Ce projet permer l'ajout , la supression et la modification des machines en utilisant cette technologie 
+Ce projet permer l'ajout , la supression et la modification des machines en utilisant cette technologie .
+
+
+
 
 #Structure du projet :---------------------------------------------------------------------------------
 -src/main/java : Ce répertoire contient les fichiers source Java et les packages de votre projet, où vous placez les classes et interfaces Java.
